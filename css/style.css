@@ -1,3 +1,18 @@
 body {
     font-family: 'Poppins', Verdana, Geneva, Tahoma, sans-serif;
 }
+
+p,
+h1 {
+    text-align: center;
+}
+
+h1 {
+    color: dimgrey;
+}
+
+h2,
+h3,
+.recipes {
+    color: darkolivegreen;
+}
