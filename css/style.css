@@ -16,3 +16,9 @@ h3,
 .recipes {
     color: darkolivegreen;
 }
+
+img {
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+}
